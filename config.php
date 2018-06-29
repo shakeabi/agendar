@@ -3,12 +3,12 @@
   include_once('functions.php');
 
   //recaptcha vars
-  $public_key = "public_key";
-  $private_key = "private_key";
+  $public_key = "6LdgdmAUAAAAAMUB4oo4JS9bHGUUE80VsXEDBP_N";
+  $private_key = "6LdgdmAUAAAAANc0Hm5XJXgDYUsqjs3PanssaPAT";
 
   define ('DB_HOST','localhost');
-  define ('DB_USER','Your-username');
-  define ('DB_PASSWORD','Your-password');
+  define ('DB_USER','root');
+  define ('DB_PASSWORD','');
 
   $connection = new mysqli(DB_HOST,DB_USER,DB_PASSWORD);
 

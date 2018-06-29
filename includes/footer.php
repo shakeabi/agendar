@@ -18,6 +18,8 @@
   currYear = parseInt(currYear, 10);
 </script>
 <script src="js/appointments.js"></script>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
 
 </body>
 
