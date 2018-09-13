@@ -1,6 +1,6 @@
 # Agendar
 
-Scheduler is a simple web app to make and track events.
+Agendar is a simple web app to make and track events.
 
 ## Features
 
