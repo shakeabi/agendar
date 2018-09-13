@@ -17,12 +17,12 @@ Agendar is a simple web app to make and track events.
 ## Setting up
 
 **Connecting to database**
-* Replace "Your-Username" and "Your-Password" with your username and password of mySQL database manager.
+* Replace "localhost" and "password" with your username and password of mySQL database manager.
 ```html
-define ('DB_USER','Your-username');
+define ('DB_USER','localost');
 ```
 ```html
-define ('DB_PASSWORD','Your-password');
+define ('DB_PASSWORD','password');
 ```
 ----
 
